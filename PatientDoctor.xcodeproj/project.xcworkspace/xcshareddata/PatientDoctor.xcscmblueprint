@@ -1,16 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB9C4027C886CB12033253BE60624F44A47A9257",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0F52EAB2B336F3670A6E74D12F8372895C1D18FA",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : 9223372036854775807,
-    "FB9C4027C886CB12033253BE60624F44A47A9257" : 9223372036854775807
+    "0F52EAB2B336F3670A6E74D12F8372895C1D18FA" : 9223372036854775807,
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "32A3B184-00F0-4808-81B0-F3354FDA64CD",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : "",
-    "FB9C4027C886CB12033253BE60624F44A47A9257" : "PatientDoctor\/"
+    "0F52EAB2B336F3670A6E74D12F8372895C1D18FA" : "PatientDoctor\/",
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "PatientDoctor",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -24,7 +24,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daveaugerinos\/PatientDoctor.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB9C4027C886CB12033253BE60624F44A47A9257"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F52EAB2B336F3670A6E74D12F8372895C1D18FA"
     }
   ]
 }

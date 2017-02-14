@@ -27,16 +27,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A2133DD41E4D423B0081201F /* Patient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Patient.m; sourceTree = "<group>"; };
+		A2133DD41E4D423B0081201F /* Patient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Patient.m; path = ../Patient.m; sourceTree = "<group>"; };
 		A26187FE1E4CF30200616988 /* PatientDoctor */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PatientDoctor; sourceTree = BUILT_PRODUCTS_DIR; };
 		A26188011E4CF30200616988 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A26188081E4CF4F600616988 /* Patient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Patient.h; sourceTree = "<group>"; };
-		A261880B1E4CF73D00616988 /* Doctor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Doctor.h; sourceTree = "<group>"; };
-		A261880C1E4CF73D00616988 /* Doctor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Doctor.m; sourceTree = "<group>"; };
-		A261880E1E4D0BD700616988 /* Rx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rx.h; sourceTree = "<group>"; };
-		A261880F1E4D0BD700616988 /* Rx.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Rx.m; sourceTree = "<group>"; };
-		A26188111E4D298400616988 /* RxHistory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RxHistory.h; sourceTree = "<group>"; };
-		A26188121E4D298400616988 /* RxHistory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RxHistory.m; sourceTree = "<group>"; };
+		A26188081E4CF4F600616988 /* Patient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Patient.h; path = ../Patient.h; sourceTree = "<group>"; };
+		A261880B1E4CF73D00616988 /* Doctor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Doctor.h; path = ../Doctor.h; sourceTree = "<group>"; };
+		A261880C1E4CF73D00616988 /* Doctor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Doctor.m; path = ../Doctor.m; sourceTree = "<group>"; };
+		A261880E1E4D0BD700616988 /* Rx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Rx.h; path = ../Rx.h; sourceTree = "<group>"; };
+		A261880F1E4D0BD700616988 /* Rx.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Rx.m; path = ../Rx.m; sourceTree = "<group>"; };
+		A26188111E4D298400616988 /* RxHistory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RxHistory.h; path = ../RxHistory.h; sourceTree = "<group>"; };
+		A26188121E4D298400616988 /* RxHistory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RxHistory.m; path = ../RxHistory.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,14 +53,6 @@
 		A26187F51E4CF30200616988 = {
 			isa = PBXGroup;
 			children = (
-				A261880E1E4D0BD700616988 /* Rx.h */,
-				A261880F1E4D0BD700616988 /* Rx.m */,
-				A26188081E4CF4F600616988 /* Patient.h */,
-				A2133DD41E4D423B0081201F /* Patient.m */,
-				A261880B1E4CF73D00616988 /* Doctor.h */,
-				A261880C1E4CF73D00616988 /* Doctor.m */,
-				A26188111E4D298400616988 /* RxHistory.h */,
-				A26188121E4D298400616988 /* RxHistory.m */,
 				A26188001E4CF30200616988 /* PatientDoctor */,
 				A26187FF1E4CF30200616988 /* Products */,
 			);
@@ -77,6 +69,14 @@
 		A26188001E4CF30200616988 /* PatientDoctor */ = {
 			isa = PBXGroup;
 			children = (
+				A261880E1E4D0BD700616988 /* Rx.h */,
+				A261880F1E4D0BD700616988 /* Rx.m */,
+				A26188081E4CF4F600616988 /* Patient.h */,
+				A2133DD41E4D423B0081201F /* Patient.m */,
+				A261880B1E4CF73D00616988 /* Doctor.h */,
+				A261880C1E4CF73D00616988 /* Doctor.m */,
+				A26188111E4D298400616988 /* RxHistory.h */,
+				A26188121E4D298400616988 /* RxHistory.m */,
 				A26188011E4CF30200616988 /* main.m */,
 			);
 			path = PatientDoctor;
