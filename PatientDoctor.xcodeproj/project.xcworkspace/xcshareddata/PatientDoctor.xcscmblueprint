@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB9C4027C886CB12033253BE60624F44A47A9257",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : 9223372036854775807,
+    "FB9C4027C886CB12033253BE60624F44A47A9257" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "32A3B184-00F0-4808-81B0-F3354FDA64CD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75" : "",
+    "FB9C4027C886CB12033253BE60624F44A47A9257" : "PatientDoctor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PatientDoctor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PatientDoctor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daveaugerinos\/LightHouseLabs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0BC148CD4D949A87F546D8B1D5F3C6EEC6E0BE75"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/daveaugerinos\/PatientDoctor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB9C4027C886CB12033253BE60624F44A47A9257"
+    }
+  ]
+}
